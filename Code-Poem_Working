@@ -1,0 +1,27 @@
+///***Javascript***///
+
+function draw() {
+  //1//
+  background(orange)
+  print(heart eyes + star face)
+  
+  //2//
+  background(bike)
+  print(stick figure //on bike//)
+  
+  //3//
+  background(mountain)
+  print(stick figure//looking around mountain top//)
+  
+  //4//
+  background(sea)
+  print(stick figure //scuba diving//)
+  
+  //5//
+  background(house)
+  print(//sad// stick figure //walking towards house//)
+  
+  //6//
+  background(fruits //on table//)
+  print(heart eyes + crying face)
+}
